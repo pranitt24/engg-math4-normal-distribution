@@ -74,7 +74,7 @@ function App() {
   const zRows = Array.from({ length: 36 }, (_, i) => (i * 0.1).toFixed(1)); 
   const zCols = [0.00, 0.01, 0.02, 0.03, 0.04, 0.05, 0.06, 0.07, 0.08, 0.09];
 
-  useEffect(() => {
+   useEffect(() => {
     if (!calculatorRef.current && window.Desmos && desmosContainerRef.current) {
       calculatorRef.current = window.Desmos.GraphingCalculator(desmosContainerRef.current, {
         expressions: false, settingsMenu: false, zoomButtons: true, invertedColors: false, lockViewport: false
@@ -88,6 +88,7 @@ function App() {
       calculatorRef.current.setExpression({ id: 'stdDev', latex: `s=${stdDev}` });
     }
   }, [mean, stdDev]);
+
 
   const handleCalculate = () => {
     if (lowerBound === '' && upperBound === '') return;
