@@ -125,7 +125,7 @@ This project was developed by a team of 6 students from the **Information Techno
 
 1.  **Pranit Waghmare** (24101A0053)
 2.  **[Martand Jadhav]** (24101A0054)
-3.  **[Name 3]** (Roll No: XXX)
+3.  **[Samprati Tikone]** (24101A0068)
 4.  **[Name 4]** (Roll No: XXX)
 5.  **[Name 5]** (Roll No: XXX)
 6.  **[Name 6]** (Roll No: XXX)
