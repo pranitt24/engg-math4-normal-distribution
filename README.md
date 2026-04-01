@@ -52,6 +52,14 @@ Add more statistical functions
 Improve UI animations
 Add real-time graph updates
 
+🎓 Academic Relevance
+
+This project is developed as part of Engineering Mathematics Semester 4, aiming to bridge the gap between:
+
+📖 Textbook theory → 🎯 Practical understanding
+
+
+
 
 
 ## 📖 Theoretical Coverage
