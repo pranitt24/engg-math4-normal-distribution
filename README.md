@@ -58,6 +58,13 @@ This project is developed as part of Engineering Mathematics Semester 4, aiming 
 
 📖 Textbook theory → 🎯 Practical understanding
 
+🔍 What you can do
+Visualize the bell curve dynamically
+Explore area under the curve
+Understand Z-score transformation
+Analyze probability regions (left, right, between)
+Learn concepts faster than traditional methods
+
 
 
 
