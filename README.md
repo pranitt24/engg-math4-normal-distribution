@@ -119,6 +119,10 @@ The application serves as a comprehensive digital textbook, covering:
 
 This project is built on the belief that visual learning beats memorization — especially in mathematics.
 
+Project Evaluation
+
+The Normal Distribution Explorer effectively converts a complex mathematical topic into an engaging and interactive learning tool. Instead of relying only on formulas and static diagrams, it allows students to visualize how the bell curve changes with different values of mean and standard deviation.
+
 
 ## 👥 The Team
 This project was developed by a team of 6 students from the **Information Technology** branch at **Vidyalankar Institute of Technology (VIT), Mumbai.**
