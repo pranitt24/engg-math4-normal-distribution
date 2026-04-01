@@ -61,7 +61,7 @@ The application serves as a comprehensive digital textbook, covering:
 This project was developed by a team of 6 students from the **Information Technology** branch at **Vidyalankar Institute of Technology (VIT), Mumbai.**
 
 1.  **Pranit Waghmare** (24101A0053)
-2.  **[Name 2]** (Roll No: XXX)
+2.  **[Martand Jadhav]** (24101A0054)
 3.  **[Name 3]** (Roll No: XXX)
 4.  **[Name 4]** (Roll No: XXX)
 5.  **[Name 5]** (Roll No: XXX)
