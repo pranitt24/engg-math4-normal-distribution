@@ -54,7 +54,7 @@ const Typewriter = ({ text, delay = 20, start = true, onComplete }) => {
     </span>
   );
 };
-
+// function
 function App() {
   const [mean, setMean] = useState(0); 
   const [stdDev, setStdDev] = useState(1);
